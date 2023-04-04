@@ -1,1 +1,1 @@
-# BigMart-Sales-Prediction
+Sales-Prediction
